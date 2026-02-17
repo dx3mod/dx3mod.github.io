@@ -1,0 +1,21 @@
+title: dx3mod
+author: Михаил Л. aka dx3mod
+language: ru
+
+avatar: /public/avatar.jpg
+
+links:
+  - [Home, /]
+  - [⌘, ""]
+  # - [Projects, "/"]
+  # - [⌘, ""]
+  - [Posts, /posts]
+  - ["", ""]
+  - [·, ""]
+  - ["", ""]
+  #- [⌘, ""]
+  - [GitHub, https://github.com/dx3mod]
+  - [⌘, ""]
+  - [Telegram, https://t.me/dx3mod]
+
+footer: С любовью из России 🇷🇺  с помощью <a href="https://github.com/dx3mod/bearbeer">bearbeer 🧸🍻</a>.
